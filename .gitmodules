@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/CloudPassenger/MTProxy.git
+[submodule "manager"]
+	path = manager
+	url = https://github.com/CloudPassenger/MTProxy-Manager.git
