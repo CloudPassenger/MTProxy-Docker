@@ -1,0 +1,9 @@
+keys = []
+new_keys = 1
+fake_tls_domain = "microsoft.com"
+ip = "8.8.4.4"
+url = ""
+port = 6590
+update_hours = 12
+port_stats = 6580
+tag = ""
